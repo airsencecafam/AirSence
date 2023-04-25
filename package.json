@@ -4,6 +4,7 @@
   "description": "Proyecto",
   "main": "index.js",
   "scripts": {
+    "start":"node ./src/server.js",
     "Dev": "Nodemon ./src/server.js"
   },
   "author": "Raul Rodriguez",
